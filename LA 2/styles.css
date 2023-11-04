@@ -1,0 +1,93 @@
+body {
+  background-color: #ffcacc;
+  font-family: "Raleway", sans-serif;
+}
+
+#myname {
+  color: #461959;
+  padding-left: 100px;
+}
+
+hr {
+  background-color: #ffcacc;
+  border-top: 2px solid #461959;
+  border-bottom: 0;
+  width: 40%;
+  border-radius: 70%;
+}
+.myphoto {
+  border-radius: 50%;
+  border: 1px solid #461959;
+}
+
+td {
+  font-size: 16px;
+  color: #3f2e3e;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+.education {
+  width: 80%;
+  margin-top: 0px;
+}
+
+.education h2,
+.education h3 {
+  color: #3f2e3e;
+}
+
+.education p {
+  color: #555;
+}
+
+.education strong {
+  font-weight: bold;
+}
+
+.education em {
+  font-style: italic;
+}
+
+.extra {
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.extra h2 {
+  color: #333;
+}
+
+.extra ul {
+  list-style: none;
+  padding: 0;
+}
+
+.extra li {
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.extra li strong {
+  font-weight: bold;
+}
+
+.extra li p {
+  margin: 0;
+}
+
+div {
+  margin-top: 0px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #faf3f0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.222);
+  margin: 10px;
+}
